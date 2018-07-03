@@ -1,0 +1,122 @@
+body
+{
+    margin: auto;
+}
+img
+{
+    height: 14.5em;
+
+}
+.para
+{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 100px;
+      font-family: Arial;
+      font-size: 0.8em;
+}
+.para a
+{
+    color: blue;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+#but
+{
+
+   text-align: center;
+
+}
+a
+{
+    margin-bottom: 75px;
+    margin-top: 10px;
+    padding-right: 20px;
+    text-decoration: none;
+    color: #303030;
+}
+#conteneur
+{
+    display: flex;
+   justify-content:flex-end;
+}
+a img
+{
+	
+	height:1em;
+}
+button
+{
+    border: 0px none rgba(206,206,206,0.5);
+    border-radius: 4px;
+  background: rgba(206,206,206,0.5);
+    padding-right: 10px;
+    margin-top: 10px;
+    width: 200px
+    margin-bottom:100px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+ul li
+ {
+  
+    color: black;
+   list-style-type: none;
+   text-decoration: none;
+   float: left;
+ }    
+input {
+    margin-top: 15px;
+    padding-top: 20px;
+      display: block;
+    margin-left: auto;
+    margin-right: auto;  
+     width: 500px;    
+   border: 1px solid rgba(206,206,206,0.5);
+   box-shadow: 0px 5px rgba(206,206,206,0.5);
+   
+}
+
+#gauche
+{
+    float: left;    
+   text-align: right;
+}
+#droite 
+{
+    overflow:auto; 
+   display: flex;
+   justify-content:flex-end;
+}
+footer a
+{
+     color: #606060;
+     font-family: Arial;
+      font-size: 0.8em;
+
+}
+p
+{
+   
+    padding-top: 1px;
+      color: #606060;
+     
+       font-family: Arial;
+         font-size: 0.9em;
+          padding-bottom: 20px
+     margin-bottom:0px;
+   
+}
+.amb
+{
+
+    border-top: 0.1px solid rgba(206,206,206,0.9); 
+     background: rgba(206,206,206,0.5);
+     margin-top:0px;
+    height:20%
+}
